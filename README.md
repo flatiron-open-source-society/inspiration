@@ -12,3 +12,5 @@ Issues and projects that seem promising for open source contributions
 * [Share Your Christmas](https://github.com/rubyforgood/share_christmas) - Matches kids in need with people that have extra (app supports Christmas, Thanksgiving & School Supplies). 
 
 ## Issues
+
+* [Octokit support for GitHub Reactions API](https://github.com/octokit/octokit.rb/issues/759) - Octokit is really well documented and comprehensive. Doesn't yet have support for new GitHub Reactions API. 
