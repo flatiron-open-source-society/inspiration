@@ -11,11 +11,11 @@ Issues and projects that seem promising for open source contributions
 * [Rust](https://github.com/rust-lang/rust/issues) - lots of issues labeled beginner friendly. Many skilled devs interested in helping someone get an open source commit.
 * [Rollout](https://github.com/fetlife/rollout) - dev team uses this a lot, handy tool for developing 'dark' code that can be continuously deployed
 * [Faker Gem](https://github.com/stympy/faker) - used by students and staff alike
-* [Share Your Christmas](https://github.com/rubyforgood/share_christmas) - Matches kids in need with people that have extra (app supports Christmas, Thanksgiving & School Supplies). 
+* [Share Your Christmas](https://github.com/rubyforgood/share_christmas) - Matches kids in need with people that have extra (app supports Christmas, Thanksgiving & School Supplies).
+* [Women Who Code](http://womenwhocode.github.io/) - Do you like encouraging women in tech?  Then this may be the project for you. There are RoR, Android and Swift projects to choose from.
 
 ## Issues
 
-* [Octokit support for GitHub Reactions API](https://github.com/octokit/octokit.rb/issues/759) - Octokit is really well documented and comprehensive. Doesn't yet have support for new GitHub Reactions API. 
 
 ## New Open Source Projects
 * Learn API wrapper gem
